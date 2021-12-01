@@ -58,3 +58,6 @@ function invokeRESTAPI() {
     console.log('End');
 }
 ```
+
+![image](https://user-images.githubusercontent.com/42272776/144299419-5e99c6ed-e0bf-4c52-a251-808c523ef6a5.png)
+
